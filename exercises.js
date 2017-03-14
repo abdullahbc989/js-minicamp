@@ -1,3 +1,9 @@
+// A variable is a container in which you can place any kind of information you want
+// A string is a line of text, like that which is actually spoken in a book.
+// Functions are blocks of code that execute an amount of lines of code behind the scenes.
+// If statements are used to contol possible outcomes
+// Boolean values are values that equal 1 or 0. True or False.
+
 //Do not change any of the function names
 
 function multiplyByTen(num) {
